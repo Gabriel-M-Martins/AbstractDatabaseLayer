@@ -1,6 +1,9 @@
 # AbstractDatabaseLayer
 
 This repository tries to mock a iOS app that requires database access and manipulation without having to worry about the actual database.
+At the moment, it is more a study case than a framework per se, but I'm working on bridging to an actual framework. The goal is to have a drop-in and go database access layer.
+
+If there are any doubts/suggestions/ideas, please share them with me! I'm eager to learn more and more!
 
 ---
 
